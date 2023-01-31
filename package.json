@@ -1,0 +1,14 @@
+{
+  "name": "developers-outside-the-box",
+  "version": "1.0.0",
+  "description": "prints cool messages after installing the package",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "postinstall": "^0.8.0"
+  }
+}
