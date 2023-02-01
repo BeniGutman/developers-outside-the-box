@@ -1,6 +1,6 @@
 {
   "name": "developers-outside-the-box",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "prints cool messages after installing the package",
   "repository": "BeniGutman/developers-outside-the-box",
   "main": "index.js",
