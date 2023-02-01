@@ -5,7 +5,7 @@
   "repository": "BeniGutman/developers-outside-the-box",
   "main": "index.js",
   "scripts": {
-    "postinstall": "node index.js"
+    "postinstall": "node ./index.js"
   },
   "author": "Beni Gutman",
   "license": "MIT"
