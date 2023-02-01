@@ -12,8 +12,7 @@ const logMessages = async () => {
     await logWithDelay('> Loading Dotan...');
     await logWithDelay('> Loading Shahar...');
     await logWithDelay('> Loading Guests...');
-    await logWithDelay();
-    await logWithDelay('\x1b[36m%s\x1b[0m', 'Here we go!');    
+    await logWithDelay('\n\x1b[36m%s\x1b[0m', 'Here we go!');    
 }
 
 logMessages()
